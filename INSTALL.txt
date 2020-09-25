@@ -1,0 +1,5 @@
+To install requirements with pip run
+    pip install -r requirements.txt
+
+To install requirement with conda run
+    conda env create -n optimize -f environment.yml

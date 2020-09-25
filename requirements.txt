@@ -1,0 +1,12 @@
+pytest-benchmark
+python-levenshtein
+cython
+ipython
+joblib
+line_profiler
+matplotlib
+memory_profiler
+numba
+numpy
+scipy
+snakeviz
