@@ -14,4 +14,4 @@ Python Code by Miki Tebeka](https://www.linkedin.com/learning/faster-python-code
 - ### [Parallel_Computing](notes/7_Parallel_Computing.md)
 - ### [Other_Tips](notes/8_Other_Tips.md)
 
-[PDF version of Notes](notes/notes.pdf)
+## [PDF version of Notes](notes/notes.pdf)
