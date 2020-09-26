@@ -30,10 +30,10 @@ if __name__ == '__main__':
 Then run the module
 
 ```zsh
-python -m module.py
+python module.py
 ```
 
-#### In notebook
+In notebook
 
 ```python
 ## Importing functions from the module
@@ -58,7 +58,7 @@ python -m module.py
 snakeviz prof.out/program.prof
 ```
 
-#### In notebook
+In notebook
 
 ```python
 %load_ext sankeviz
